@@ -40,8 +40,6 @@ Everything is stored permanently and transparently on-chain, making it useful fo
 
 ## 📦 Smart Contract Code  
 ```solidity
-// paste your code
-// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 contract FreelancerLog {
