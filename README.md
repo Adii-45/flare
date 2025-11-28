@@ -6,10 +6,10 @@ This is perfect for learning how mappings, structs, state updates, and basic Web
 ## 🔗 Deployed Smart Contract  
 **Contract Address:** `0x39472130651Ff14FF471B7Cb0B362ee9c1Af318e`
 
-<img width="3572" height="2084" alt="image" src="https://github.com/user-attachments/assets/51402c54-1ff0-4c84-bbe8-3146ab998795" />
-
-
 **Explorer:** https://coston2-explorer.flare.network//tx/0x9e3cd594a73b4fce88b69ce4860f34d0beba3fc67bfb6954b1f828c2696f9089
+
+<img width="3600" height="2338" alt="image" src="https://github.com/user-attachments/assets/f338131f-f84c-48e2-bf7a-03a7822fd12f" />
+
 
 ---
 
