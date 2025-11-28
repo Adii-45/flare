@@ -3,6 +3,11 @@
 A lightweight and beginner-friendly Solidity smart contract that allows freelancers to log their daily work on-chain.  
 This is perfect for learning how mappings, structs, state updates, and basic Web3 interactions work on the blockchain.
 
+## 🔗 Deployed Smart Contract  
+**Contract Address:** `0x39472130651Ff14FF471B7Cb0B362ee9c1Af318e`
+
+**Explorer:** https://coston2-explorer.flare.network//tx/0x9e3cd594a73b4fce88b69ce4860f34d0beba3fc67bfb6954b1f828c2696f9089
+
 ---
 
 ## 📝 Project Description
@@ -30,13 +35,6 @@ Everything is stored permanently and transparently on-chain, making it useful fo
 - **No complex data structures** — perfect for beginners  
 - **Gas-efficient**  
 - **Clear, readable Solidity code**  
-
----
-
-## 🔗 Deployed Smart Contract  
-**Contract Address:** `0x39472130651Ff14FF471B7Cb0B362ee9c1Af318e`
-
-**Explorer:** https://coston2-explorer.flare.network//tx/0x9e3cd594a73b4fce88b69ce4860f34d0beba3fc67bfb6954b1f828c2696f9089
 
 ---
 
